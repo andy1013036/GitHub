@@ -1,2 +1,4 @@
 use "nano" to edit file
 Hello Linux!
+---
+Today I learned Git commit and push.
